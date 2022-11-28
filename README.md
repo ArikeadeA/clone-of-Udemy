@@ -1,1 +1,1 @@
-# clone-of-Udemy
+# UdemyClone
